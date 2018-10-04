@@ -1,4 +1,3 @@
-token=NDkzMTkwNzQ1Njg0MDQ5OTMw.DohYBw.oJ3IIiisnIVq8ezpIUIGQwk-Tg8
-owner=474175378118803466 
-prefix=1
-game=Watching Truth music
+token=NDk3NTI3OTAxMTA1Njg0NDgx.DpgesA.h2v4K4CXKix07igjxz6huUnuWHI
+owner=494529176372772865
+prefix=d
